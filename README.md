@@ -1,6 +1,6 @@
 <div align="center">
 
-# TokenAll
+# TokenALL
 
 **A modern terminal control center for managing multiple Discord account utilities from one place.**
 
