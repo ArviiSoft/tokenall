@@ -1,0 +1,39 @@
+{
+  "generator": {
+    "sampleTokens": [
+      "",
+      "",
+      ""
+    ]
+  },
+
+  "joiner": {
+    "captcha_service": "capmonster",
+    "captcha_api_key": "",
+    "inviteCode": "https://discord.gg/DAVET_KODU",
+    "joinDelay": 3000,
+    "useProxies": false
+  },
+
+  "activator": {
+    "HesapTOKEN": [
+      ""
+    ],
+    "SesKanallari": [
+      ""
+    ]
+  },
+
+  "booster": {
+    "captcha_service": "capmonster",
+    "captcha_api_key": "",
+    "inviteCode": "https://discord.gg/DAVET_KODU",
+    "joinDelay": 1000,
+    "useProxies": false,
+    "boost": {
+      "enabled": true,
+      "delay": 1000,
+      "serverId": ""
+    }
+  }
+}
