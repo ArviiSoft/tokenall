@@ -13,7 +13,7 @@ Built by **arviis.**
 
 </div>
 
-TokenAll brings its generator/checker, server joiner, voice activator, boost workflow, and ID conversion tool together behind a single interactive command-line interface. The dashboard includes keyboard navigation, live file counters, module descriptions, status feedback, and animated launch transitions.
+TokenAll brings its generator/checker, server joiner, voice activator, boost workflow, and ID conversion tool together behind a single interactive command line interface. The dashboard includes keyboard navigation, live file counters, module descriptions, status feedback, and animated launch transitions.
 
 > [!WARNING]
 > Discord self-bots and automated user-account actions may violate Discord's Terms of Service and may result in account restrictions or termination. This project is unofficial, is not affiliated with Discord, and should only be used in environments and with accounts you own or are explicitly authorized to test.
